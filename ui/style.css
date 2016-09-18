@@ -1,6 +1,5 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
     margin-top: 75px;
 }
 
@@ -24,7 +23,7 @@ body {
                  max-width: 500px;
                     margin: 1 auto;
                     color: blue;
-                    padding-top: 20px;
+                   
                     padding-left: 20px;
                     font-family: sans-serif;
                
