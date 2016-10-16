@@ -40,7 +40,7 @@ return htmltemplate;
 }
 
 app.get('/', function (req, res) {
-  res.sendFile(path.join(__dirname, 'ui', 'contacts.html'));
+  res.sendFile(path.join(__dirname, '', 'contacts.html'));
 });
 
 app.get('/article-one',function (req,res){
